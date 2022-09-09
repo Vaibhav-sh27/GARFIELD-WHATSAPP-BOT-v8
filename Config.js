@@ -41,7 +41,7 @@ global.author = 'VS DEVELOPMENT' // 👈 You Can change this your choice
 global.sessionName = 'session' // 👈 You Can change this your choice
 global.prefa = ['','!','.','🛰️','⚓','🍎'] // 👈 You Can change this your choice
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
-global.thumb =  'https://ibb.co/D8rFPhX' 
+global.thumb =  'https://i.ibb.co/D8rFPhX/f37dcd94219e2d9eac59d4f10513536c.jpg' 
 global.spoty = 'https://i.postimg.cc/HW2YbN1b/Pics-Art-22-08-09-16-12-14-489.png'
 //Go to https://imgbb.com/, upload a photo of your choice and put its link here
 global.sp = '⭔'
