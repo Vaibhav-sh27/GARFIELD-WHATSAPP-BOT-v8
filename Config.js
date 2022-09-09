@@ -13,10 +13,10 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'sanzychan01', //credit goes to sanzy yt, if api key expire, buy it and put it here?\\
 }
 // 👈 You Can change this your choice
-global.emoji01 = ['🐼'] // 👈 Enter your Emoji 
+global.emoji01 = ['🙃'] // 👈 Enter your Emoji 
 global.emoji02 = ['🦋'] //👈 Enter your Emoji
 global.notice = ` *Hi 🥰 I m*
-*ＮＯＩＺ Ξ*
+*J R V I S*
 *I am 19 years old developer...*
 *From Mathura*
 *I am a Learning.*
